@@ -1,3 +1,0 @@
-import os
-user = friend[0]["UserName"]
-os.mkdir(user)
